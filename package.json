@@ -3,9 +3,24 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "add": "^2.0.6",
+    "axios": "^0.18.0",
+    "bulma": "^0.7.4",
+    "draft-js": "^0.10.5",
+    "draftjs-to-html": "^0.8.4",
+    "formik": "^1.5.2",
+    "moment": "^2.24.0",
+    "node-sass": "^4.11.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-scripts": "2.1.8"
+    "react-draft-wysiwyg": "^1.13.2",
+    "react-dropzone": "^10.1.4",
+    "react-modal": "^3.8.1",
+    "react-router-dom": "^5.0.0",
+    "react-scripts": "2.1.8",
+    "react-toasts": "^3.0.3",
+    "simple-react-validator": "^1.0.7",
+    "yarn": "^1.15.2"
   },
   "scripts": {
     "start": "react-scripts start",
